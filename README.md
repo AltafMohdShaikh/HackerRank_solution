@@ -1,4 +1,4 @@
 # HackerRank solution
 
-## SQL Solution
-This repo contain the solution to all the questions i solved to get the badges
+## SQL Solution (currently 2 stars) 
+SQL repo contains all solved questions i did to collect the stars in sql
