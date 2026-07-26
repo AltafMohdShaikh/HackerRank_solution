@@ -1,4 +1,4 @@
--- journey to the very first star
+-- journey to the second star
 -- Query a list of CITY and STATE from the STATION table.
 SELECT 
 CITY,
